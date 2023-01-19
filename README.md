@@ -3,7 +3,7 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
-### Тестовые артефакты
+### Тестовые артефакты (пока-что заглушки)
 - [Чек-листы](https://github.com/icegisu/checklist)
 - [Тест-кейсы](https://github.com/icegisu/test-cases)
 - [Баг-репорты](https://github.com/icegisu/bug-reports)
